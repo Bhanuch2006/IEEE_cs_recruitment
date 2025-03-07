@@ -1,0 +1,6 @@
+# Level 2
+In this level i have asked to make a intervel merger 
+
+which should maintain a set of non-overlapping intervals and efficiently merge them when new intervals are added.
+
+I have used sorted list for this que, and the operations in the code are of O(logn) and O(n)
