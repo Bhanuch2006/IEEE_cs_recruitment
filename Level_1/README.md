@@ -7,3 +7,9 @@ To design a stack that supports the following operations:
 - getMax(): Returns the largest element in the stack.
 
 All the operation in the code use **O(n) space complexity** , **O(1) time complexity** except this printit operation which has O(n) time complexity
+# Uses: 
+Stack is very efficient for adding and removing elements O(1) 
+
+Time Complexity: O(1) and O(n)
+
+Space Complexity: O(n)
