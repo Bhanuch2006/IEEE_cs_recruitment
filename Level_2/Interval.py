@@ -31,3 +31,14 @@ intr_m.addinterval(6,8)
 intr_m.addinterval(4,7)
 print(intr_m.retrieve())
 #getting an output as [[1,8]]
+#Another test cases: 
+intr_2=interval()
+intr_2.addinterval(1,2)
+intr_2.addinterval(3,4)
+intr_2.addinterval(4,8)
+print(intr_2.retrieve())
+#getting an output [[1,2],[3,8]]
+intr_2.addinterval(1,8)
+print(intr_2.retrieve())
+#getting an output [[1,8]]
+#
